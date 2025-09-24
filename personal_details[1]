@@ -1,0 +1,30 @@
+// simple c program
+
+/*
+name: Mwangi Samuel 
+reg: CT100/G/26145/25
+des: showing my profile
+*/
+
+#include <stdio.h>
+
+// main function
+int main(int argc, char** argv)
+{
+    int height;
+    printf("Enter your height: ");
+    scanf("%d", &height);
+    printf("Your height is %d \n", height);
+
+    char contact[20];  // contact stored as a string
+    printf("Enter your contact: ");
+    scanf("%s", contact);
+    printf("Your contact is %s \n", contact);
+
+    int weight;
+    printf("Enter your weight: ");
+    scanf("%d", &weight);
+    printf("Your weight is %d \n", weight);
+
+    return 0;
+}
