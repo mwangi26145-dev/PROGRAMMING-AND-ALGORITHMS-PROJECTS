@@ -1,0 +1,21 @@
+//units project
+
+/*
+Name: Mwangi Samuel Ngero
+REG: CT100/G/26145/25
+Description: Units for this semester project
+*/
+
+#include <stdio.h>
+
+int main(){
+    printf("1. sph 2101 Analogue electronics\n");
+    printf("2. spi 2101 Introduction to programming and algorithm\n");
+    printf("3. spi 2102 Computer systems and organization\n");
+    printf("4. spi 2103 Introduction to computer application\n");
+    printf("5. spi 2120 Essentials of accounting\n");
+    printf("6. sph 2104 Mathematics for science\n");
+    printf("7. ucu 2105 Fundamentals of ICT\n");
+    printf("8. ucu 2106 Communication and information literacy\n");
+    return 0;
+}
